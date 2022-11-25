@@ -25,10 +25,10 @@ We designed two classified models:
 
 
 ![image](fig0.PNG)
-![image](NLP_Phishing_Mail_Detection/fig1.png)
+![image](fig1.PNG)
 
 ### Results
 We have 0.64 in final accuracy.
 To be more general, in our approach, we find variant (SPAM words) and invariant (phishing website features) features, and refer them to different models.
 
-![image](fig2.png)
+![image](fig2.PNG)
