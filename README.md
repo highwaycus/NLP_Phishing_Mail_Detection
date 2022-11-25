@@ -24,8 +24,8 @@ We designed two classified models:
   * Classifiers: Check that the train and test data have similar distribution after tokenization. Got voting results from RNN, LSTM, GRU models.
 
 
-![image](fig0.png)
-![image](fig1.png)
+![image](fig0.PNG)
+![image](NLP_Phishing_Mail_Detection/fig1.png)
 
 ### Results
 We have 0.64 in final accuracy.
