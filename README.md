@@ -26,7 +26,7 @@ We designed two classified models:
   * If the email includes URL in content, we applied rule-based model to determined if the url is a phishing link (that is, it is a phishing email).
   * Phishing Websites Features: We used the features suggested by Mohammad et al. (2015)
 * SPAM Model: 
-  * For emails contain NO URLs, we use NLP model to determine if it is a SPAM case.
+  * For emails contain NO URLs, we use NLP model to determine if it is a SPAM case. 
   * Classifiers: Check that the train and test data have similar distribution after tokenization. Got voting results from RNN, LSTM, GRU models.
 
 
