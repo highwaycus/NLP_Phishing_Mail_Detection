@@ -9,7 +9,7 @@ https://crossroadsclassicanalyticschallenge.com/
 ### Competition
 The Crossroads Classic Analytics Challenge was established in 2021 by faculty at universities in Indiana that love their school, students, and the great State of Indiana. 
 
-The teams were from Indiana University, Purdue University, Butler University and Notre Dame University. 
+The teams were from Indiana University, Purdue University, Butler University and Notre Dame University.   
 
 There are total 29 teams had submitted their work. Our team members were Shiue-Yuan Chuang and Andrew Huang, and we got the top four placements among the teams in Indiana University and advanced to the semi-final round.
 
