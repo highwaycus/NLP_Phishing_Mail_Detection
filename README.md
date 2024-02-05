@@ -4,7 +4,7 @@
 2022 Crossroads Classic Analytics Challenge Competition: NLP Phishing Email Detection
 
 ### url
-https://crossroadsclassicanalyticschallenge.com/
+https://crossroadsclassicanalyticschallenge.com/ 
 
 ### Competition
 The Crossroads Classic Analytics Challenge was established in 2021 by faculty at universities in Indiana that love their school, students, and the great State of Indiana. 
